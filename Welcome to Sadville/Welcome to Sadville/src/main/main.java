@@ -32,7 +32,7 @@ public class main {
 		
 		try {
 			//music = new MusicPlayer("C:\\Users\\Xiaof\\Downloads\\Easy Lemon.wav");
-			music = new MusicPlayer("Welcome to Sadville\\easylemon.wav");
+			music = new MusicPlayer("2023Hackathon-main\\easylemon.wav");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
